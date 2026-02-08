@@ -47,8 +47,12 @@ The project is built using Node.js, Express, MongoDB, and React. All user data, 
 ## Project Structure
 
 ### Backend Structure
+<img width="542" height="1586" alt="Снимок 09 02 2026 в 02 51 (1)" src="https://github.com/user-attachments/assets/334f6f8f-918c-42cd-b0a2-72115a64c6e9" />
+
 
 ### Frontend Structure
+<img width="548" height="1644" alt="Снимок 09 02 2026 в 02 51 (2)" src="https://github.com/user-attachments/assets/3aead608-27ea-4051-94d1-4ca41ff2d507" />
+
 
 ---
 

@@ -11,6 +11,7 @@ const donationRoutes = require("./routes/donation.routes");
 const { notFound, errorHandler } = require("./middleware/errorHandler");
 
 const app = express();
+// CORS updated for localhost frontend
 
 app.use(helmet());
 app.use(cors({ origin: true, credentials: true }));

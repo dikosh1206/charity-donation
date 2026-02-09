@@ -60,8 +60,14 @@ The project is built using Node.js, Express, MongoDB, and React. All user data, 
 
 ### Collections
 - `users` – registered users (username, email, password, role)
+  <img width="3420" height="2214" alt="Снимок 09 02 2026 в 06 38" src="https://github.com/user-attachments/assets/b572e48e-b96d-4df8-9c60-97a875e29987" />
+
 - `charities` – charity organizations (name, description, city, tags)
+  <img width="3420" height="2214" alt="Снимок 09 02 2026 в 06 38 (1)" src="https://github.com/user-attachments/assets/0cd7a574-082a-4ee1-9571-6f80ddfa0a6d" />
+
 - `donations` – user donations (user, charity, amount, message, date)
+  <img width="3420" height="2214" alt="Снимок 09 02 2026 в 06 39" src="https://github.com/user-attachments/assets/b7c71ac2-3b28-4540-95a8-8b04a33d8099" />
+
 
 Database name:charity_donation
 ---

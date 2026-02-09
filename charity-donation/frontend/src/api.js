@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const API_BASE = "http://127.0.0.1:5050";
+export const API_BASE = "https://charity-donation-k1fx.onrender.com";
 
 export const api = axios.create({
   baseURL: API_BASE,

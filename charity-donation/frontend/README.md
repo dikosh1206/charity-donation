@@ -180,7 +180,7 @@ Deployment
 The backend is deployed on Render.
 
 Deployment URL:
-<PUT YOUR RENDER BACKEND URL HERE>
+https://charity-donation-k1fx.onrender.com
 
 MongoDB Atlas is used for production database. Sensitive data such as database credentials and JWT secrets are stored in environment variables.
 
